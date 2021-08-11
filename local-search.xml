@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>Github+HEXO搭建教程</title>
+    <link href="/2021/08/10/githubhexo-dajian/"/>
+    <url>/2021/08/10/githubhexo-dajian/</url>
+    
+    <content type="html"><![CDATA[<h1 id="在电脑上安装Git"><a href="#在电脑上安装Git" class="headerlink" title="在电脑上安装Git"></a>在电脑上安装Git</h1><p>打开Git网站<a href="https://git-scm.com/">https://git-scm.com/</a>根据系统版本选择相应的安装程序。安装过程中保持默认选项安装即可。</p><h1 id="在电脑是安装Node-js"><a href="#在电脑是安装Node-js" class="headerlink" title="在电脑是安装Node.js"></a>在电脑是安装Node.js</h1><p>打开Node.js网站<a href="https://nodejs.org/en/">https://nodejs.org/en/</a>选择LTS版本。安装过程也是保持默认选项安装即可。</p><h1 id="检查Git、npm、node版本"><a href="#检查Git、npm、node版本" class="headerlink" title="检查Git、npm、node版本"></a>检查Git、npm、node版本</h1><p><img src="2021-08-10-githubhexo-dajian_md_files%5Cimage.png?v=1&type=image"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/08/10/hello-world/"/>
     <url>/2021/08/10/hello-world/</url>
